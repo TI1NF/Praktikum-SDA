@@ -1,6 +1,4 @@
-# Documentation and Guide
-
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+# بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 
 This repository contains the codes of Data Structure & Algorithm Lab tasks and/or exercise.
@@ -84,9 +82,9 @@ Example:
 
 
 
-# Happy Coding :smiley: :thumbsup:
+# Happy Coding! :smiley: :thumbsup:
 
 
 
-الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ
+> الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ
 > "Those who have believed and whose hearts are assured by the remembrance of Allah . Unquestionably, by the remembrance of Allah hearts are assured." - 13:28
