@@ -1,14 +1,17 @@
 # Praktikum-SDA
+
 This repository contains the codes for Data Structure & Algorithm Lab tasks and/or exercise.
 
-Read carefully before you get started.
+Read this DOCUMENTATION carefully before you get started.
 
 # Environment Preparation
 
+Note that current needs are just for C++ programming language. As for Java for the next level, this documentation will be updated accordingly.
+
 **Debian/Ubuntu-based System**
 
-C++ Compiler:
-`- g++` (GNU C++ Compiler)
+Compiler:
+- `g++` (GNU C++ Compiler)
 
 Install one of your prefered Text Editor or IDE:
 - `gedit` + `gedit-plugins` (GNOME Text Editor + its plugins)
@@ -25,7 +28,7 @@ Other Text Editor/IDE outside Debian/Ubuntu repository:
 - Brackets (text editor powered by Adobe corp.)
 - Visual Studio Code (text editor powered by Microsoft corp.)
 
-**Installation
+**Installation**
 
 `sudo apt update
 
@@ -33,5 +36,4 @@ sudo apt install <nama_paket_1> <nama_paket_2> <nama_paket_n>`
 
 _ Example:
 `sudo apt install g++ codeblocks`
-
 
