@@ -1,6 +1,7 @@
 # Praktikum-SDA
 
-﷽
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 
 This repository contains the codes for Data Structure & Algorithm Lab tasks and/or exercise.
 
