@@ -73,7 +73,7 @@ Other Text Editor/IDE:
 
 ### Installation
 ```
-sudo pacman -Sy`
+sudo pacman -Sy
 sudo pacman -S <package_name_1> <package_name_2> <package_name_n>
 ```
 
