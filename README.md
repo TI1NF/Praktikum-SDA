@@ -5,7 +5,7 @@ Read carefully before you get started.
 
 # Environment Preparation
 
-**Debian/Ubuntu-based System
+**Debian/Ubuntu-based System**
 
 C++ Compiler:
 `- g++` (GNU C++ Compiler)
