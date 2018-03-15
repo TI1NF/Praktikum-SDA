@@ -17,7 +17,7 @@ Table of Contents:
 
 Note that current needs are just for **C++** programming language. As for **Java** for the next level, this documentation will be updated accordingly.
 
-## Debian/Ubuntu-based System
+## Debian/Ubuntu GNU+Linux based System
 
 Compiler:
 
@@ -56,7 +56,7 @@ Visual Studio Code | text editor powered by Microsoft corp.
 Example: 
 `sudo apt install g++ codeblocks`
 
-## Arch-based System
+## Arch GNU+Linux based System
 The packages are the same as on Debian/Ubuntu repository.
 
 Other Text Editor/IDE:
