@@ -60,7 +60,7 @@ Example:
 
 ## Arch GNU+Linux based System
 The packages are the same as on [Debian/Ubuntu](https://github.com/TI1NF/Praktikum-SDA#debianubuntu-gnulinux-based-system) official repository.
-Additionally, Atom is in Arch official repository.
+Additionally, [Atom](https://atom.io) is available in Arch official repository.
 
 Package Name | Description
 ------------ | -------------
