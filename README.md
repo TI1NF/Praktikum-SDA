@@ -8,7 +8,7 @@ Read this DOCUMENTATION carefully before you get started.
 
 # Environment Preparation
 
-Note that current needs are just for C++ programming language. As for Java for the next level, this documentation will be updated accordingly.
+Note that current needs are just for **C++** programming language. As for **Java** for the next level, this documentation will be updated accordingly.
 
 **Debian/Ubuntu-based System**
 
@@ -36,5 +36,5 @@ Other Text Editor/IDE outside Debian/Ubuntu repository:
 
 `sudo apt install <package_name_1> <package_name_2> <package_name_n>`
 
-Example:
+Example
 `sudo apt install g++ codeblocks`
