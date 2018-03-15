@@ -6,6 +6,13 @@ Each directory consists one person's own code files.
 
 Read this DOCUMENTATION carefully before you get started. :wink:
 
+Table of Contents:
+- [Environment Preparation](https://github.com/TI1NF/Praktikum-SDA#environment-preparation)
+  - [Debian/Ubuntu-based System](https://github.com/TI1NF/Praktikum-SDA#debianubuntu-based-system)
+    - [Installaion](https://github.com/TI1NF/Praktikum-SDA#installation)
+  - [Arch-based System](https://github.com/TI1NF/Praktikum-SDA#arch-based-system)
+    - [Installation](https://github.com/TI1NF/Praktikum-SDA#installation-1)
+    
 # Environment Preparation
 
 Note that current needs are just for **C++** programming language. As for **Java** for the next level, this documentation will be updated accordingly.
@@ -13,7 +20,10 @@ Note that current needs are just for **C++** programming language. As for **Java
 ## Debian/Ubuntu-based System
 
 Compiler:
-- `g++` (GNU C++ Compiler)
+
+------------ | -------------
+`g++` | GNU C++ Compiler
+
 
 Install one of your prefered Text Editor or IDE:
 - `gedit` + `gedit-plugins` (GNOME Text Editor + its plugins)
