@@ -22,18 +22,18 @@ Install one of your prefered Text Editor or IDE:
 - `nano` (simple cli text editor)
 
 Other Text Editor/IDE outside Debian/Ubuntu repository:
-- Sublime Text (proprietary freemium text editor)
-- Atom (Hackable and open-source text editor powered by GitHub)
-- Komodo Edit (cross-platform and multilingual text editor & IDE)
-- Brackets (text editor powered by Adobe corp.)
-- Visual Studio Code (text editor powered by Microsoft corp.)
+- Sublime Text _(proprietary freemium text editor)_
+- Atom _(Hackable and open-source text editor powered by GitHub)_
+- Komodo Edit _(cross-platform and multilingual text editor & IDE)_
+- Brackets _(text editor powered by Adobe corp.)_
+- Visual Studio Code _(text editor powered by Microsoft corp.)_
 
 **Installation**
 
-`sudo apt update
+`sudo apt update`
 
-sudo apt install <nama_paket_1> <nama_paket_2> <nama_paket_n>`
+`sudo apt install <nama_paket_1> <nama_paket_2> <nama_paket_n>`
 
-_ Example:
+Example:
 `sudo apt install g++ codeblocks`
 
