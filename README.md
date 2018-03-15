@@ -38,11 +38,14 @@ Package Name | Description
 `nano` | simple cli text editor
 
 Other Text Editor/IDE outside Debian/Ubuntu repository:
-- Sublime Text _(proprietary freemium text editor)_
-- Atom _(Hackable and open-source text editor powered by GitHub)_
-- Komodo Edit _(cross-platform and multilingual text editor & IDE)_
-- Brackets _(text editor powered by Adobe corp.)_
-- Visual Studio Code _(text editor powered by Microsoft corp.)_
+
+Name | Description
+------------ | -------------
+Sublime Text | proprietary freemium text editor
+Atom | hackable and open-source text editor powered by GitHub
+Komodo Edit | cross-platform and multilingual text editor & IDE
+Brackets | text editor powered by Adobe corp.
+Visual Studio Code | text editor powered by Microsoft corp.
 
 ### Installation
 
