@@ -32,7 +32,7 @@ Other Text Editor/IDE outside Debian/Ubuntu repository:
 
 `sudo apt update`
 
-`sudo apt install <nama_paket_1> <nama_paket_2> <nama_paket_n>`
+`sudo apt install <package_name_1> <package_name_2> <package_name_n>`
 
 Example:
 `sudo apt install g++ codeblocks`
