@@ -4,7 +4,7 @@ This repository contains the codes for Data Structure & Algorithm Lab tasks and/
 
 Each directory consists one person's own code files.
 
-Read this DOCUMENTATION carefully before you get started.
+Read this DOCUMENTATION carefully before you get started. :wink:
 
 # Environment Preparation
 
@@ -39,3 +39,20 @@ Other Text Editor/IDE outside Debian/Ubuntu repository:
 Example: 
 `sudo apt install g++ codeblocks`
 
+**Arch-based System**
+The packages are the same as on Debian/Ubuntu repository.
+
+Other Text Editor/IDE:
+- Atom (AUR) 
+- Komodo Edit (AUR) 
+- Brackets (AUR)
+- Visual Studio Code (AUR)
+
+**Installation**
+
+`sudo pacman -Sy`
+
+`sudo pacman -S <package_name_1> <package_name_2> <package_name_n>`
+
+Example: 
+`sudo pacman -S g++ codeblocks`
