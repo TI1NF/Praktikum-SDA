@@ -36,5 +36,6 @@ Other Text Editor/IDE outside Debian/Ubuntu repository:
 
 `sudo apt install <package_name_1> <package_name_2> <package_name_n>`
 
-Example
+Example: 
 `sudo apt install g++ codeblocks`
+
