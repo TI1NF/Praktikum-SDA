@@ -8,9 +8,9 @@ Read this DOCUMENTATION carefully before you get started. :wink:
 
 Table of Contents:
 - [Environment Preparation](https://github.com/TI1NF/Praktikum-SDA#environment-preparation)
-  - [Debian/Ubuntu-based System](https://github.com/TI1NF/Praktikum-SDA#debianubuntu-based-system)
+  - [Debian/Ubuntu-based System](https://github.com/TI1NF/Praktikum-SDA#debianubuntu-gnulinux-based-system)
     - [Installaion](https://github.com/TI1NF/Praktikum-SDA#installation)
-  - [Arch-based System](https://github.com/TI1NF/Praktikum-SDA#arch-based-system)
+  - [Arch-based System](https://github.com/TI1NF/Praktikum-SDA#arch-gnulinux-based-system)
     - [Installation](https://github.com/TI1NF/Praktikum-SDA#installation-1)
     
 # Environment Preparation
@@ -48,10 +48,10 @@ Brackets | text editor powered by Adobe corp.
 Visual Studio Code | text editor powered by Microsoft corp.
 
 ### Installation
-
-`sudo apt update`
-
-`sudo apt install <package_name_1> <package_name_2> <package_name_n>`
+```
+sudo apt update
+sudo apt install <package_name_1> <package_name_2> <package_name_n>
+```
 
 Example: 
 `sudo apt install g++ codeblocks`
