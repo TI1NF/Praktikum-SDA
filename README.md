@@ -21,17 +21,21 @@ Note that current needs are just for **C++** programming language. As for **Java
 
 Compiler:
 
+Package Name | Description
 ------------ | -------------
 `g++` | GNU C++ Compiler
 
 
 Install one of your prefered Text Editor or IDE:
-- `gedit` + `gedit-plugins` (GNOME Text Editor + its plugins)
-- `geany` (Lightweight and customizable IDE)
-- `codeblocks` (cross-platform Dev-C++ alike IDE)
-- `vim` or `vim-gui` (popular Unix keyboard-driven text editor)
-- `emacs` (fully-featured keyboard-driven text editor)
-- `nano` (simple cli text editor)
+
+Package Name | Description
+------------ | -------------
+`gedit` `gedit-plugins` | GNOME text editor + its plugins
+`geany` | lightweight and customizable IDE
+`codeblocks` | cross-platform Dev-C++ alike IDE
+`vim` `vim-gui` | popular Unix keyboard-driven text editor
+`emacs` | fully-featured keyboard-driven text editor
+`nano` | simple cli text editor
 
 Other Text Editor/IDE outside Debian/Ubuntu repository:
 - Sublime Text _(proprietary freemium text editor)_
