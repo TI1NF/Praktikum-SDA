@@ -66,10 +66,10 @@ Other Text Editor/IDE:
 - Visual Studio Code (AUR)
 
 ### Installation
-
-`sudo pacman -Sy`
-
-`sudo pacman -S <package_name_1> <package_name_2> <package_name_n>`
+```
+sudo pacman -Sy`
+sudo pacman -S <package_name_1> <package_name_2> <package_name_n>
+```
 
 Example: 
 `sudo pacman -S g++ codeblocks`
