@@ -62,7 +62,7 @@ Example:
 The packages are the same as on [Debian/Ubuntu](https://github.com/TI1NF/Praktikum-SDA#debianubuntu-gnulinux-based-system) official repository.
 Additionally, Atom is in Arch official repository.
 
-Name | Description
+Package Name | Description
 ------------ | -------------
 `atom` | open-source and hackable text editor powered by GitHub
 
