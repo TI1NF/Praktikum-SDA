@@ -37,7 +37,7 @@ Package Name | Description
 `emacs` | fully-featured keyboard-driven text editor
 `nano` | simple cli text editor (default)
 
-Other Text Editor/IDE outside Debian/Ubuntu repository:
+Other Text Editor/IDE outside Debian/Ubuntu official repository:
 
 Name | Description
 ------------ | -------------
@@ -57,7 +57,8 @@ Example:
 `sudo apt install g++ codeblocks`
 
 ## Arch GNU+Linux based System
-The packages are the same as on [Debian/Ubuntu](https://github.com/TI1NF/Praktikum-SDA#debianubuntu-gnulinux-based-system) repository.
+The packages are the same as on [Debian/Ubuntu](https://github.com/TI1NF/Praktikum-SDA#debianubuntu-gnulinux-based-system) official repository.
+Additionally, Atom is in Arch official repository.
 
 Name | Description
 ------------ | -------------
