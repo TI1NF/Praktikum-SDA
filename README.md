@@ -1,11 +1,11 @@
 # بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 
-This repository contains the codes of Data Structure & Algorithm Lab tasks and/or exercise.
+This repository contains the codes of **Data Structure & Algorithm** Lab tasks and/or exercise.
 
 Each directory consists one person's own code files.
 
-Read this documentation carefully before you get started. :wink:
+Read this **documentation** carefully before you get started. :wink:
 
 **Table of Contents:**
 - [Environment Preparation](https://github.com/TI1NF/Praktikum-SDA#environment-preparation)
