@@ -5,9 +5,9 @@ This repository contains the codes of Data Structure & Algorithm Lab tasks and/o
 
 Each directory consists one person's own code files.
 
-Read this DOCUMENTATION carefully before you get started. :wink:
+Read this documentation carefully before you get started. :wink:
 
-Table of Contents:
+**Table of Contents:**
 - [Environment Preparation](https://github.com/TI1NF/Praktikum-SDA#environment-preparation)
   - [Debian/Ubuntu-based System](https://github.com/TI1NF/Praktikum-SDA#debianubuntu-gnulinux-based-system)
     - [Installation](https://github.com/TI1NF/Praktikum-SDA#installation)
