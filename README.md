@@ -77,3 +77,6 @@ sudo pacman -S <package_name_1> <package_name_2> <package_name_n>
 
 Example: 
 `sudo pacman -S g++ codeblocks atom`
+
+الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ
+> "Those who have believed and whose hearts are assured by the remembrance of Allah . Unquestionably, by the remembrance of Allah hearts are assured." - 13:28
