@@ -79,7 +79,10 @@ Example:
 `sudo pacman -S g++ codeblocks atom`
 
 
+
+
 # Happy Coding :smiley: :thumbsup:
+
 
 
 الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ
