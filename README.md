@@ -9,7 +9,7 @@ Read this DOCUMENTATION carefully before you get started. :wink:
 Table of Contents:
 - [Environment Preparation](https://github.com/TI1NF/Praktikum-SDA#environment-preparation)
   - [Debian/Ubuntu-based System](https://github.com/TI1NF/Praktikum-SDA#debianubuntu-gnulinux-based-system)
-    - [Installaion](https://github.com/TI1NF/Praktikum-SDA#installation)
+    - [Installation](https://github.com/TI1NF/Praktikum-SDA#installation)
   - [Arch-based System](https://github.com/TI1NF/Praktikum-SDA#arch-gnulinux-based-system)
     - [Installation](https://github.com/TI1NF/Praktikum-SDA#installation-1)
     
@@ -19,14 +19,14 @@ Note that current needs are just for **C++** programming language. As for **Java
 
 ## Debian/Ubuntu GNU+Linux based System
 
-Compiler:
+Install the **compiler** (important):
 
 Package Name | Description
 ------------ | -------------
 `g++` | GNU C++ Compiler
 
 
-Install one of your prefered Text Editor or IDE:
+Install one of your prefered Text Editor or IDE (optional):
 
 Package Name | Description
 ------------ | -------------
@@ -35,14 +35,14 @@ Package Name | Description
 `codeblocks` | cross-platform Dev-C++ alike IDE
 `vim` `vim-gui` | popular Unix keyboard-driven text editor
 `emacs` | fully-featured keyboard-driven text editor
-`nano` | simple cli text editor
+`nano` | simple cli text editor (default)
 
 Other Text Editor/IDE outside Debian/Ubuntu repository:
 
 Name | Description
 ------------ | -------------
 Sublime Text | proprietary freemium text editor
-Atom | hackable and open-source text editor powered by GitHub
+Atom | open-source and hackable text editor powered by GitHub
 Komodo Edit | cross-platform and multilingual text editor & IDE
 Brackets | text editor powered by Adobe corp.
 Visual Studio Code | text editor powered by Microsoft corp.
@@ -57,10 +57,13 @@ Example:
 `sudo apt install g++ codeblocks`
 
 ## Arch GNU+Linux based System
-The packages are the same as on Debian/Ubuntu repository.
+The packages are the same as on [Debian/Ubuntu](https://github.com/TI1NF/Praktikum-SDA#debianubuntu-gnulinux-based-system) repository.
 
-Other Text Editor/IDE:
-- Atom (AUR) 
+Name | Description
+------------ | -------------
+`atom` | open-source and hackable text editor powered by GitHub
+
+Other Text Editor/IDE: 
 - Komodo Edit (AUR) 
 - Brackets (AUR)
 - Visual Studio Code (AUR)
@@ -72,4 +75,4 @@ sudo pacman -S <package_name_1> <package_name_2> <package_name_n>
 ```
 
 Example: 
-`sudo pacman -S g++ codeblocks`
+`sudo pacman -S g++ codeblocks atom`
