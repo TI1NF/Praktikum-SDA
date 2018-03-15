@@ -10,7 +10,7 @@ Read this DOCUMENTATION carefully before you get started. :wink:
 
 Note that current needs are just for **C++** programming language. As for **Java** for the next level, this documentation will be updated accordingly.
 
-**Debian/Ubuntu-based System**
+## Debian/Ubuntu-based System
 
 Compiler:
 - `g++` (GNU C++ Compiler)
@@ -30,7 +30,7 @@ Other Text Editor/IDE outside Debian/Ubuntu repository:
 - Brackets _(text editor powered by Adobe corp.)_
 - Visual Studio Code _(text editor powered by Microsoft corp.)_
 
-**Installation**
+### Installation
 
 `sudo apt update`
 
@@ -39,7 +39,7 @@ Other Text Editor/IDE outside Debian/Ubuntu repository:
 Example: 
 `sudo apt install g++ codeblocks`
 
-**Arch-based System**
+## Arch-based System
 The packages are the same as on Debian/Ubuntu repository.
 
 Other Text Editor/IDE:
@@ -48,7 +48,7 @@ Other Text Editor/IDE:
 - Brackets (AUR)
 - Visual Studio Code (AUR)
 
-**Installation**
+### Installation
 
 `sudo pacman -Sy`
 
