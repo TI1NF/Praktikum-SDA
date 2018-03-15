@@ -1,5 +1,7 @@
 # Praktikum-SDA
 
+﷽
+
 This repository contains the codes for Data Structure & Algorithm Lab tasks and/or exercise.
 
 Each directory consists one person's own code files.
