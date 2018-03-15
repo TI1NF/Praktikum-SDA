@@ -36,4 +36,3 @@ Other Text Editor/IDE outside Debian/Ubuntu repository:
 
 Example:
 `sudo apt install g++ codeblocks`
-
