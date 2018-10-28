@@ -12,8 +12,6 @@ Read this **documentation** carefully before you get started. :wink:
 - [Environment Preparation](https://github.com/TI1NF/Praktikum-SDA#environment-preparation)
   - [Debian/Ubuntu-based System](https://github.com/TI1NF/Praktikum-SDA#debianubuntu-gnulinux-based-system)
     - [Installation](https://github.com/TI1NF/Praktikum-SDA#installation)
-  - [Arch-based System](https://github.com/TI1NF/Praktikum-SDA#arch-gnulinux-based-system)
-    - [Installation](https://github.com/TI1NF/Praktikum-SDA#installation-1)
     
 # Environment Preparation
 
@@ -57,29 +55,6 @@ sudo apt install <package_name_1> <package_name_2> <package_name_n>
 
 Example: 
 `sudo apt install g++ codeblocks`
-
-## Arch GNU+Linux based System
-The packages are the same as on [Debian/Ubuntu](https://github.com/TI1NF/Praktikum-SDA#debianubuntu-gnulinux-based-system) official repository.
-Additionally, [Atom](https://atom.io) is available in Arch official repository.
-
-Package Name | Description
------------- | -------------
-`atom` | open-source and hackable text editor powered by GitHub
-
-Other Text Editor/IDE: 
-- Komodo Edit (AUR) 
-- Brackets (AUR)
-- Visual Studio Code (AUR)
-
-### Installation
-```
-sudo pacman -Sy
-sudo pacman -S <package_name_1> <package_name_2> <package_name_n>
-```
-
-Example: 
-`sudo pacman -S g++ codeblocks atom`
-
 
 
 
